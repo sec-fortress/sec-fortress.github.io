@@ -56,3 +56,4 @@ Discover CyberSecLabs. With our growing platform delivering beginner hacking con
 - [[Nov. 24 2023]] [Plotted-TMS](https://sec-fortress.github.io/posts/thm/posts/Plotted-TMS.html) `Enumeration, Unrestricted File Upload, doas x openssl privilege escalation`
 - [[Feb. 03 2024]] [Reset](https://sec-fortress.github.io/posts/thm/posts/Reset.html) `SMB Ntlm_Theft, BloodHound, Abusing ACEs, Constrained Delegations`
 - [[Feb. 09 2024]] [Kenobi](https://sec-fortress.github.io/posts/thm/posts/Kenobi.html) `Information disclosure, ProFTPd Mod_copy (CVE-2015-3306), Path Variable Manipulation`
+- [[Mar. 08 2024]] [Opacity](https://sec-fortress.github.io/posts/thm/posts/Opacity.html) `Remote file Upload, .kdbx decryption, PHP privilege escalation`
