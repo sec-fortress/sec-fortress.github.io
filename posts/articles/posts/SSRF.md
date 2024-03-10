@@ -4,6 +4,7 @@
 ![image](https://github.com/sec-fortress/sec-fortress.github.io/assets/132317714/5a3184da-9922-45dd-bfd1-024e016625e9)
 
 **_SSRF occurs when an attacker manipulates a vulnerable server-side component of a web application to make unauthorized requests to internal systems or external services, often bypassing security controls. This could lead to sensitive data exposure, unauthorized access to internal resources, or even complete compromise of the server._**
+
 ***
 
 
