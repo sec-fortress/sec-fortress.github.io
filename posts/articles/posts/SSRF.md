@@ -176,7 +176,6 @@ Now make a normal stock request and send to **repeater**, replacing the path val
 
 
 ![](https://i.imgur.com/v09AeBB.png)
-****
 
 
 
