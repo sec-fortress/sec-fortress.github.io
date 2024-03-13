@@ -74,7 +74,7 @@ The Hack The Box platform provides a wealth of challenges - in the form of virtu
 - [[Nov. 21 2023]] [Hospital](https://sec-fortress.github.io/posts/htb/posts/Hospital.html) `File Upload = RCE, OverlayFS, Lateral Movement, Admin creds exposure`
 - [[Feb. 04 2024]] [Bizness](https://sec-fortress.github.io/posts/htb/posts/Bizness.html) `OfBiz Pre-Auth RCE, Information Disclosure, Passowrd Cracking`
 - [[Feb. 04 2024]] [Skyfall](https://sec-fortress.github.io/posts/htb/posts/skyfall.html) `403 Bypass, Devops, Vault, MinIO`
-- [[Feb. 08 2024]] [Keeper](https://sec-fortress.github.io/posts/htb/posts/keeper.html) `Default Credentials, Information Disclosure, PuTTY Key file Privilege escalation`
+<!-- - [[Feb. 08 2024]] [Keeper](https://sec-fortress.github.io/posts/htb/posts/keeper.html) `Default Credentials, Information Disclosure, PuTTY Key file Privilege escalation`
 - [[Feb. 21 2024]] [Office](https://sec-fortress.github.io/posts/htb/posts/Office.html) `Unauthenticated information disclosure, Wireshark, Vault Credentials (Dpapi), ACE Abuse (WriteDacl)`
-- [[Feb. 28 2024]] [Jab](https://sec-fortress.github.io/posts/htb/posts/Jab.html) `XMPP, Information Disclosure, OpenFire path trasversal to RCE`
+- [[Feb. 28 2024]] [Jab](https://sec-fortress.github.io/posts/htb/posts/Jab.html) `XMPP, Information Disclosure, OpenFire path trasversal to RCE` -->
 
