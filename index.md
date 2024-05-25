@@ -115,6 +115,12 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, a 19-year-old achievin
 - [[Feb. 24 2024]] [Hub](https://sec-fortress.github.io/posts/pg/posts/Hub.html) `Information Disclosure, File Upload, Remote Code Execution`
 - [[Feb. 24 2024]] [Exfiltrated](https://sec-fortress.github.io/posts/pg/posts/Exfiltrated.html) `CVE-2018-19422-SubrionCMS-RCE, Cron Jobs, CVE-2021-22204(ExifTool)-Arbitrary Code Execution`
 
+
+* * *
+### **Vulnyx Writeups:~#**
+* * *
+
+
 * * *
 ### **HackMyVM Writeups:~#**
 * * *
