@@ -270,4 +270,9 @@ Let try the password for the user root
 
 
 
-Which works xD, Have a nice day
+Which works EzPz, Have a nice day
+
+
+
+<button onclick="window.location.href='https://sec-fortress.github.io';">Back To Home螥</button>
+
