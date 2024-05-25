@@ -272,7 +272,7 @@ Let try the password for the user root
 
 Which works EzPz, Have a nice day
 
-https://i.pinimg.com/originals/44/4b/8f/444b8f406347a470a7de5478206dd158.gif
+![](https://i.pinimg.com/originals/44/4b/8f/444b8f406347a470a7de5478206dd158.gif)
 
 <button onclick="window.location.href='https://sec-fortress.github.io';">Back To Home螥</button>
 
