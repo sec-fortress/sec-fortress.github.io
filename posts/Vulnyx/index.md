@@ -15,4 +15,4 @@ Vulnyx is a free #cybersecurity platform for #hackers to enhance their offensive
 <hr>
 
 
-- [[Dec. 06 2023]] [WebMaster](https://sec-fortress.github.io/posts/Vulnyx/posts/air.html) `Zone transfer, Nginx Privilege Escalation`
+- [[May 24 2023]] [Air](https://sec-fortress.github.io/posts/Vulnyx/posts/air.html) `Recon, Local File Upload, IVS Privilege Escalation`
