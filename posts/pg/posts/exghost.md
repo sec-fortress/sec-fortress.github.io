@@ -159,7 +159,21 @@ You can get the python exploit from [here](https://github.com/joeammond/CVE-2021
 
 
 
+
+## **Mitigations** 
+
+
+- Change default credentials of the `FTP` server to strong, unique passwords and username.
+- Replace `FTP` with a more secure protocol such as `SFTP` (Secure File Transfer Protocol) or FTPS (FTP Secure).
+- Ensure `ExifTool` is updated to the latest version that includes the security patch, better still remove or restrict `ExifTool` Usage
+- Update the `Polkit` package or Disable `pkexec` : `sudo chmod 0755 /usr/bin/pkexec`
+
+
+
 Have fun xD
+
+
+## **Status Check** ⚠️
 
 
 I shouldn't be playing boxes 🤣, i have got exams next week but hell yeah, i really don't wanna be far away from doing this. However i might limit all of this in the coming months, Take of yourselves Fellas :)
@@ -167,3 +181,6 @@ I shouldn't be playing boxes 🤣, i have got exams next week but hell yeah, i r
 
 
 ![image](https://github.com/sec-fortress/sec-fortress.github.io/assets/132317714/a2d7b812-fdd1-450d-8b9a-6690215a8b1c)
+
+
+
