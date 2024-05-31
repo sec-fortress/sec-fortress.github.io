@@ -11,6 +11,7 @@ plugins:
   - jekyll-coffeescript
   - jekyll-seo-tag
   - some-other-jekyll-plugin
+  - jekyll-twitter-plugin
   
 gems:
   - jekyll-sitemap
