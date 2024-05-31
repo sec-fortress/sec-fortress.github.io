@@ -133,6 +133,7 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, a 19-year-old achievin
 - [[Nov. 17 2023]] [Driftingblues6](https://sec-fortress.github.io/posts/HackMyVM/posts/driftingblues6.html) `Bruteforce, Unrestricted File Upload, Dirty Cow(CVE-2016-5195)`
 - [[Dec. 06 2023]] [WebMaster](https://sec-fortress.github.io/posts/HackMyVM/posts/webmaster.html) `Zone transfer, Nginx Privilege Escalation`
 - [[May. 29 2024]] [036](https://sec-fortress.github.io/posts/HackMyVM/posts/036.html) `OSINT, Wifi`
+- [[May. 31 2024]] [036](https://sec-fortress.github.io/posts/HackMyVM/posts/075.html) `OSINT, G-Maps, Methodology`
 
 
 
