@@ -1,1 +1,1 @@
-index.html wtfsh
+./posts/pg/posts/dc2.html wtfsh
