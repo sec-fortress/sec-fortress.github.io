@@ -2,7 +2,7 @@
 
 ## **C.Rating : Hard**
 
-![image](https://github.com/sec-fortress/sec-fortress.github.io/assets/132317714/2bcfc26e-1d72-46c3-af92-19cdfb9e5ce7)
+![image](https://github.com/sec-fortress/sec-fortress.github.io/assets/132317714/f18534d6-daa9-4345-9cc4-69548cdfceab)
 
 ***
 
