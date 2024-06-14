@@ -6,7 +6,7 @@
 
 ***
 
-Running our nmap scan we have:
+Running our nmap scan to discover open ports we have:
 
 
 ```bash
