@@ -89,7 +89,7 @@ enum4linux-ng 192.168.214.122 -L -S -oJ hutch.json
 ![](https://i.imgur.com/9vVXGWK.png)
 
 
-Domain : hutch.offsec
+Domain : hutch.offsec | 
 DC : HUTCHDC
 
 
