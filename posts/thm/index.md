@@ -57,4 +57,5 @@ Discover CyberSecLabs. With our growing platform delivering beginner hacking con
 - [[Feb. 03 2024]] [Reset](https://sec-fortress.github.io/posts/thm/posts/Reset.html) `SMB Ntlm_Theft, BloodHound, Abusing ACEs, Constrained Delegations`
 - [[Feb. 09 2024]] [Kenobi](https://sec-fortress.github.io/posts/thm/posts/Kenobi.html) `Information disclosure, ProFTPd Mod_copy (CVE-2015-3306), Path Variable Manipulation`
 - [[Mar. 08 2024]] [Opacity](https://sec-fortress.github.io/posts/thm/posts/Opacity.html) `Remote file Upload, .kdbx decryption, PHP privilege escalation`
-- [[Mar. 11 2024]] [Retro](https://sec-fortress.github.io/posts/thm/posts/Retro.html) `Directory fuzzing, wpscan, SeImpersonatePrivilege` 
+- [[Mar. 11 2024]] [Retro](https://sec-fortress.github.io/posts/thm/posts/Retro.html) `Directory fuzzing, wpscan, SeImpersonatePrivilege`
+- [[Jul. 05 2024]] [Publisher](https://sec-fortress.github.io/posts/thm/posts/publisher.html) `Fuzzing, SPIP form PHP Injection, Broken IAM, Apparmor`
