@@ -212,6 +212,7 @@ Then we need the CLSID to actually make this work, You can get the CLSID from [h
 Bankaaaaiiiii ⚔️
 
 
+<button onclick="window.location.href='https://sec-fortress.github.io';">Back To Home螥</button>
 
 
 
