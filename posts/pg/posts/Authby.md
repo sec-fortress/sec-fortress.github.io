@@ -209,6 +209,7 @@ Then we need the CLSID to actually make this work, You can get the CLSID from [h
 ![](https://i.imgur.com/EguxHg4.png)
 
 
+> Note that if the exploit doesn't work it is a matter of "**trial and error**, so keep trying maybe 2-4 times and it should work.
 
 
 Bankaaaaiiiii ⚔️
