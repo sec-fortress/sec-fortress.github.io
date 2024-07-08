@@ -151,7 +151,7 @@ I also make sure to confirm if we had this same text in the `index.php` file dow
 ## **FootHold**
 
 
-Saved Ivan Sinceck PHP shell to a file and use the `put` command to upload to the FTP server then executed it from the URL making sure i have my listener turned on
+Saved **Ivan Sinceck** PHP shell to a file and use the `put` command to upload to the FTP server then executed it from the URL making sure i have my listener turned on
 
 
 
@@ -164,6 +164,8 @@ nc -lvnp 4444
 
 ![](https://i.imgur.com/xPsxY7f.png)
 
+
+## **Privilege Escalation**
 
 
 I found out that we have the `SeImpersonatePrivilege` and we can use this to escalate to administrator, the below command retrieves and displays specific system information, including the host name, OS name, OS version, system type, and hotfixes installed, from the output of the `systeminfo` command.
