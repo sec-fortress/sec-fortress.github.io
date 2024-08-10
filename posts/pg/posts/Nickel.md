@@ -99,8 +99,7 @@ ftp>
 - Navigating to port 80/HTTP we don't have anything useful, however checking port 8089 we have this page;
 
 
-
-![image-20240809094200132](/home/sec-fortress/.config/Typora/typora-user-images/image-20240809094200132.png)
+![image](https://github.com/user-attachments/assets/11ef110e-9928-483d-bd5b-bf08863e5012)
 
 
 
@@ -132,7 +131,7 @@ ftp>
 
 
 
-![image-20240809094518287](/home/sec-fortress/.config/Typora/typora-user-images/image-20240809094518287.png)
+![image](https://github.com/user-attachments/assets/9b6ec01e-2834-469b-b7fd-6ed820e2be45)
 
 
 
@@ -144,7 +143,7 @@ ftp>
 
 
 
-![image-20240809094059905](/home/sec-fortress/.config/Typora/typora-user-images/image-20240809094059905.png)
+![image](https://github.com/user-attachments/assets/9e856ca9-0c88-49f6-bc6a-de76d50d47d0)
 
 
 
@@ -193,7 +192,7 @@ Infrastructure.pdf                                                              
 
 
 
-![image-20240809100717035](/home/sec-fortress/.config/Typora/typora-user-images/image-20240809100717035.png)
+![image](https://github.com/user-attachments/assets/a154bee0-58ef-4834-b6a7-94a33e0c900f)
 
 
 
@@ -224,7 +223,7 @@ Session completed.
 
 
 
-![image-20240809235218560](/home/sec-fortress/.config/Typora/typora-user-images/image-20240809235218560.png)
+![image](https://github.com/user-attachments/assets/94b577aa-f61a-4b5d-95da-9b352adb07af)
 
 
 
