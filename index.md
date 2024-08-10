@@ -119,6 +119,7 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, a 19-year-old achievin
 - [[June 14 2024]] [Hutch](https://sec-fortress.github.io/posts/pg/posts/hutch.html) `Enumeration, Password in description, Password spraying, ms-mcs-AdmPwd abuse, DCSync`
 - [[July 08 2024]] [AuthBy](https://sec-fortress.github.io/posts/pg/posts/Authby.html) `Password guessing/cracking, Arbitrary file upload --> RCE, SeImpersonatePrivilege(Juicy-Potato)`
 - [[Aug. 10 2024]] [Nickel](https://sec-fortress.github.io/posts/pg/posts/Nickel.html) `GET2POST, hardcoded credentials, pdf2john, API privilege escalation`
+- [[Aug. 10 2024]] [Shenzi](https://sec-fortress.github.io/posts/pg/posts/Shenzi.html) `Least Privilege Violation(SMB), Guessable WP endpoint, PrivEsc; misconfigured registry settings(AlwaysInstallElevated)`
 
 
 
