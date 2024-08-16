@@ -28,3 +28,4 @@ OffSec Proving Grounds (PG) Play and Practice is a modern network for practicing
 - [[Aug. 10 2024]] [Nickel](https://sec-fortress.github.io/posts/pg/posts/Nickel.html) `GET2POST, hardcoded credentials, pdf2john, API privilege escalation`
 - [[Aug. 10 2024]] [Shenzi](https://sec-fortress.github.io/posts/pg/posts/Shenzi.html) `Least Privilege Violation(SMB), Guessable WP endpoint, PrivEsc; misconfigured registry settings(AlwaysInstallElevated)`
 - [[Aug. 10 2024]] [Slort](https://sec-fortress.github.io/posts/pg/posts/Slort.html) `RFI2RCE, PrivEsc; Scheduled Task`
+- [[Aug. 15 2024]] [Nara](https://sec-fortress.github.io/posts/pg/posts/Nara.html) `Active Directory, Phishing(.LNK upload to NTLM Theft), Crackmapexec, RID Brute, Bloodhound, ADCS(ESC1)`
