@@ -4,7 +4,13 @@ title: Home
 ---
 
 <!--Favicon-->
-<link rel="shortcut icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 <link rel="shortcut icon" href="favico.ico" type="image/vnd.microsoft.icon">
 <h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Root</a>&#xA0;&#xA0;&#xA0; <a href="/posts/thm/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/htb/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ptd/index.html">PwnTillDawn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/pg/index.html">ProvingGrounds</a>&#xA0;&#xA0;&#xA0;<a href="/posts/Vulnyx/index.html">Vulnyx</a>&#xA0;&#xA0;&#xA0;<a href="/posts/HackMyVM/index.html">HackMyVM</a>&#xA0;&#xA0;&#xA0;<a href="/posts/articles/index.html">Articles</a>&#xA0;&#xA0;&#xA0;<a href="/posts/projects/index.html">Projects</a>&#xA0;&#xA0;&#xA0;</h2>
 
