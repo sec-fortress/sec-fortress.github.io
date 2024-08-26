@@ -4,6 +4,7 @@ title: Home
 ---
 
 <!--Favicon-->
+<link rel="shortcut icon" type="image/png" href="favicon.png">
 <link rel="shortcut icon" href="favico.ico" type="image/vnd.microsoft.icon">
 <h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Root</a>&#xA0;&#xA0;&#xA0; <a href="/posts/thm/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/htb/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;<a href="/posts/ptd/index.html">PwnTillDawn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/pg/index.html">ProvingGrounds</a>&#xA0;&#xA0;&#xA0;<a href="/posts/Vulnyx/index.html">Vulnyx</a>&#xA0;&#xA0;&#xA0;<a href="/posts/HackMyVM/index.html">HackMyVM</a>&#xA0;&#xA0;&#xA0;<a href="/posts/articles/index.html">Articles</a>&#xA0;&#xA0;&#xA0;<a href="/posts/projects/index.html">Projects</a>&#xA0;&#xA0;&#xA0;</h2>
 
