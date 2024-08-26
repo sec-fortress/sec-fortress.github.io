@@ -33,3 +33,4 @@ title:  Articles.
 - [[Dec 29 2023]] [Attacking Active Directory](https://sec-fortress.github.io/posts/articles/posts/Attacktive_Active_Directory.html) `ASREPRoasting, File disclosure, Pass-The-Hash`
 - [[Jan 20 2023]] [Abusing dangerous privileges - Windows](https://sec-fortress.github.io/posts/articles/posts/Abusing_dangerous_privileges.html) `SeBackup/SeRestore, SeTakeOwnership, SeImpersonate/SeAssignPrimaryToken`
 - [[Feb 21 2023]] [DNS with AWS Route 53](https://sec-fortress.github.io/posts/articles/posts/DNS%20with%20AWS%20Route%2053.html) `Hosted Zones, Routing Policies, S3 Records`
+- [[Aug 15 2023]] [QuickEnumCheatsheet](https://sec-fortress.github.io/posts/articles/posts/QuickEnumCheatsheet.html) `Enumeration, CheatSheet`
