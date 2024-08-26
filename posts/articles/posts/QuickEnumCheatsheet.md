@@ -41,7 +41,7 @@
 | **Command**                                                                  | **Description**                                                                    |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | `showmount -e <FQDN/IP>`                                                     | Show available NFS shares.                                                         |
-| - `mount -t nfs -o vers=3 <FQDN/IP>:/<share> ./target-NFS/ -o vers=3,nolock` | Mount the specific NFS share using NFS using version 3 with file locking disabled. |
+| `mount -t nfs -o vers=3 <FQDN/IP>:/<share> ./target-NFS/ -o vers=3,nolock` | Mount the specific NFS share using NFS using version 3 with file locking disabled. |
 | `umount ./target-NFS`                                                        | Unmount the specific NFS share.                                                    |
 
 
