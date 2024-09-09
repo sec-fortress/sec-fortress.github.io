@@ -1,5 +1,10 @@
 # **Windows PrivEsc**
 
+***
+
+![image](https://github.com/user-attachments/assets/95cc8e50-a67b-4617-b958-1788940664e3)
+
+
 ## Windows Privilege Escalation Practice Room on Tryhackme, Created By [Tib3rius](https://tryhackme.com/r/room/windows10privesc)
 
 ***
