@@ -129,6 +129,7 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, a 19-year-old achievin
 - [[Aug. 10 2024]] [Shenzi](https://sec-fortress.github.io/posts/pg/posts/Shenzi.html) `Least Privilege Violation(SMB), Guessable WP endpoint, PrivEsc; misconfigured registry settings(AlwaysInstallElevated)`
 - [[Aug. 10 2024]] [Slort](https://sec-fortress.github.io/posts/pg/posts/Slort.html) `RFI2RCE, PrivEsc; Scheduled Task`
 - [[Aug. 15 2024]] [Nara](https://sec-fortress.github.io/posts/pg/posts/Nara.html) `ACtive Directory, Phishing(.LNK upload to NTLM Theft), Crackmapexec, RID Brute, Bloodhound, ADCS(ESC1)`
+- [[Aug. 15 2024]] [Nara](https://sec-fortress.github.io/posts/pg/posts/BackupBuddy.html) `LFI, id_rsa decryption, SUID PrivEsc`
 
 
 * * *
