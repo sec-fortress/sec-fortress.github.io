@@ -1,3 +1,9 @@
+## **Edit a Runbook in Azure and append a PowerShell script to retrieve credentials**
+
+![b09c1a5729661d9abce16e7c454acadc](https://github.com/user-attachments/assets/d7013aa4-5ce4-4619-a800-56faf3a41026)
+
+***
+
 To edit a Runbook in Azure Automation and append a PowerShell script to retrieve credentials, follow these steps:
 
 ### Step-by-Step Guide
