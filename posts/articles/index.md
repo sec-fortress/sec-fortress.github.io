@@ -35,3 +35,4 @@ title:  Articles.
 - [[Feb 21 2023]] [DNS with AWS Route 53](https://sec-fortress.github.io/posts/articles/posts/DNS%20with%20AWS%20Route%2053.html) `Hosted Zones, Routing Policies, S3 Records`
 - [[Aug 15 2023]] [QuickEnumCheatsheet](https://sec-fortress.github.io/posts/articles/posts/QuickEnumCheatsheet.html) `Enumeration, CheatSheet`
 - [[Sep 09 2024]] [Windows PrivEsc](https://sec-fortress.github.io/posts/articles/posts/winprivesc.html) `Lab, Practice, Privilege Escalation`
+- [[Oct 16 2024]] [Edit a Runbook in Azure and append a PowerShell script to retrieve credentials](https://sec-fortress.github.io/posts/articles/posts/Edit%20a%20Runbook%20in%20Azure%20and%20append%20a%20PowerShell%20script%20to%20retrieve%20credentials.html)
