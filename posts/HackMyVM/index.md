@@ -26,3 +26,4 @@ HackMyVM offers a collection of vulnerable virtual machines for learning and hac
 - [[Dec. 06 2023]] [WebMaster](https://sec-fortress.github.io/posts/HackMyVM/posts/webmaster.html) `Zone transfer, Nginx Privilege Escalation`
 - [[May. 29 2024]] [036](https://sec-fortress.github.io/posts/HackMyVM/posts/036.html) `OSINT, Wifi`
 - [[May. 31 2024]] [075](https://sec-fortress.github.io/posts/HackMyVM/posts/075.html) `OSINT, Google-Map, Methodology`
+- [[Oct. 17 2024]] [PingMe](https://sec-fortress.github.io/posts/HackMyVM/posts/Pingme.html) `tcpdump, packet sniffing, ICMP`
