@@ -149,6 +149,7 @@ Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, a 19-year-old achievin
 - [[May. 29 2024]] [036](https://sec-fortress.github.io/posts/HackMyVM/posts/036.html) `OSINT, Wifi`
 - [[May. 31 2024]] [036](https://sec-fortress.github.io/posts/HackMyVM/posts/075.html) `OSINT, G-Maps, Methodology`
 - [[Oct. 17 2024]] [PingMe](https://sec-fortress.github.io/posts/HackMyVM/posts/Pingme.html) `tcpdump, packet sniffing, ICMP`
+- [[Oct. 17 2024]] [Noob](https://sec-fortress.github.io/posts/HackMyVM/posts/Noob.html) `directory fuzzing, symbolic links`
 
 
 
