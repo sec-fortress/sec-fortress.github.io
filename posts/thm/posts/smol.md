@@ -1,8 +1,15 @@
+# **Smol**
+
+***
+![image](https://github.com/user-attachments/assets/81c352ce-d7c6-4008-a29f-ebe13c6484b1)
+
+## **Difficulty = Medium**
+
+***
 
 
 
-
-Running our nmap scan, the analyst got the following result
+Running our nmap scan, the analyst got the following result :
 
 
 ```bash
@@ -484,3 +491,8 @@ root@smol:/home/think$ hostnamectl
             Kernel: Linux 5.4.0-156-generic
       Architecture: x86-64
 ```
+
+
+
+<button onclick="window.location.href='https://sec-fortress.github.io';">Back To Home螥</button>
+
