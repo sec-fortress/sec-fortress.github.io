@@ -59,3 +59,4 @@ Discover CyberSecLabs. With our growing platform delivering beginner hacking con
 - [[Mar. 08 2024]] [Opacity](https://sec-fortress.github.io/posts/thm/posts/Opacity.html) `Remote file Upload, .kdbx decryption, PHP privilege escalation`
 - [[Mar. 11 2024]] [Retro](https://sec-fortress.github.io/posts/thm/posts/Retro.html) `Directory fuzzing, wpscan, SeImpersonatePrivilege`
 - [[Jul. 05 2024]] [Publisher](https://sec-fortress.github.io/posts/thm/posts/publisher.html) `Fuzzing, SPIP form PHP Injection, Broken IAM, Apparmor`
+- [[Apr. 02 2025]] [Smol](https://sec-fortress.github.io/posts/thm/posts/smol.html) `Wordpress, LFI, Code Review, RFI, Hash Cracking, Lateral Movements` 
