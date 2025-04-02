@@ -204,7 +204,7 @@ Since we have credentials we can see if the `wpuser` have admin access by:
 http://www.smol.thm/wp-admin/?cmd=id;hostnamectl
 ```
     
-3. The system will execute `system("id")`, revealing user info.
+3. The system will execute `system("id;hostnamectl")`, revealing user and system info.
 
 
 
