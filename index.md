@@ -18,7 +18,10 @@ title: Home
 ### Whoami:~#
 * * *
 
-Yo 👋, welcome to my Cyber Security Blog! I'm Olaoluwa, a 19-year-old achieving senior penetration tester. I post different hacking tricks, writeups, articles, and anything related to hacking that I learn xD..., You can also view my web portfolio from **[here](https://secfortress.com/whoami/)**.
+Oi 👋, I’m Olaoluwa, a 20-year-old achieving Senior Penetration Tester.
+This is a growing collection of structured public notes, quick writeups, and real-world hacking techniques I pick up as I learn and work xD....You can also view my web portfolio from **[here](https://secfortress.com/whoami/)**.
+
+![image](https://github.com/user-attachments/assets/1d7fc608-7e2a-49d0-b695-60e32a99b244)
 
 
 * * *
