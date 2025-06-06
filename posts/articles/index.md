@@ -38,5 +38,5 @@ title:  Articles.
 - [[Oct 16 2024]] [Edit a Runbook in Azure and append a PowerShell script to retrieve credentials](https://sec-fortress.github.io/posts/articles/posts/Edit%20a%20Runbook%20in%20Azure%20and%20append%20a%20PowerShell%20script%20to%20retrieve%20credentials.html)
 - [[Dec 20 2024]] [CVE-2024-55341](https://sec-fortress.github.io/posts/articles/posts/CVE-2024-55341.html) `CVE RESEARCH`
 - [[Dec 20 2024]] [CVE-2024-55342](https://sec-fortress.github.io/posts/articles/posts/CVE-2024-55342.html) `CVE RESEARCH`
-- [[Jun 06 2025]] [IDOR Checklist](https://sec-fortress.github.io/posts/articles/posts/Idor_Checklist.html) `CVE RESEARCH`
+- [[Jun 06 2025]] [IDOR Checklist](https://sec-fortress.github.io/posts/articles/posts/Idor_Checlist.html) `CVE RESEARCH`
 
