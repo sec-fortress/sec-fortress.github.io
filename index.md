@@ -21,8 +21,7 @@ title: Home
 Oi 👋, I’m Olaoluwa, a 20-year-old achieving Senior Penetration Tester.
 This is a growing collection of structured public notes, quick writeups, and real-world hacking techniques I pick up as I learn and work xD....You can also view my web portfolio from **[here](https://secfortress.com/whoami/)**.
 
-![image](https://github.com/user-attachments/assets/1d7fc608-7e2a-49d0-b695-60e32a99b244)
-
+![](https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif)
 
 * * *
 ### **TryHackMe Writeups:~#**
