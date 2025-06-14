@@ -331,3 +331,5 @@ Change Referrer header to `/admin` and try to upgrade user `wiener` again with t
 - [https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
 
 
+<button onclick="window.location.href='https://sec-fortress.github.io';">Back To Home螥</button>
+
