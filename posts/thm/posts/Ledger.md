@@ -8,7 +8,7 @@
 ***
 
 
-Nmap scan result -:
+Nmap scan result to discover open ports/services on the domain -:
 
 ```bash
 # Nmap 7.95 scan initiated Tue Jul 15 08:29:07 2025 as: /usr/lib/nmap/nmap --privileged -p- -sCV -T4 -v -oN nmap.txt -Pn 10.10.197.194
