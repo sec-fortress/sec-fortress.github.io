@@ -61,6 +61,8 @@ This is a growing collection of structured public notes, quick writeups, and rea
 - [[Mar. 11 2024]] [Retro](https://sec-fortress.github.io/posts/thm/posts/Retro.html) `Directory fuzzing, wpscan, SeImpersonatePrivilege`
 - [[Jul. 05 2024]] [Publisher](https://sec-fortress.github.io/posts/thm/posts/publisher.html) `Fuzzing, SPIP form PHP Injection, Broken IAM, Apparmor`
 - [[Apr. 02 2025]] [Smol](https://sec-fortress.github.io/posts/thm/posts/smol.html) `Wordpress, LFI, Code Review, RFI, Hash Cracking, Lateral Movements` 
+- [[July 15 2025]] [Ledger](https://sec-fortress.github.io/posts/thm/posts/Ledger.html) `rid-brute, ldapsearch, ESC1, DcSync` 
+
 
 
 
