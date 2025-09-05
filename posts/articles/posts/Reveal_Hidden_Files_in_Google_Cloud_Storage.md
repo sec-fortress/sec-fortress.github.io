@@ -4,11 +4,11 @@
 ![](https://i.imgur.com/oHc3KrJ.png)
 
 
-- Visiting the domain hosted with Google cloud (https://careers.gigantic-retail.com/index.html)
+- Visiting the domain hosted with Google cloud; [https://careers.gigantic-retail.com/index.html](https://careers.gigantic-retail.com/index.html)
 - Wappalyzer shows it is truly hosted in GCP
 
 
-![[Pasted image 20250905231429.png]]
+<img width="1345" height="695" alt="image" src="https://github.com/user-attachments/assets/6e56874a-0d81-479a-92f3-032157afb3ff" />
 
 - Viewing page source discovered a commented storage image path 
 
