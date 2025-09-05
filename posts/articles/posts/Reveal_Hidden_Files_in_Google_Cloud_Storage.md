@@ -8,7 +8,7 @@
 - Wappalyzer shows it is truly hosted in GCP
 
 
-<img width="1345" height="695" alt="image" src="https://github.com/user-attachments/assets/6e56874a-0d81-479a-92f3-032157afb3ff" />
+![](https://github.com/user-attachments/assets/6e56874a-0d81-479a-92f3-032157afb3ff)
 
 - Viewing page source discovered a commented storage image path 
 
@@ -222,7 +222,7 @@ Compressed: 22072
 The retrieve file contains sensitive PII and a flag for the platform; **_Pwnedlabs_**
 
 
-<img width="1414" height="913" alt="Pasted image 20250404221939" src="https://github.com/user-attachments/assets/1254af32-0f4b-43b3-9529-a422ab8984da" />
+![](https://github.com/user-attachments/assets/1254af32-0f4b-43b3-9529-a422ab8984da)
 
 
 ## **Remediation**
