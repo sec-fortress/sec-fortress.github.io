@@ -39,4 +39,5 @@ title:  Articles.
 - [[Dec 20 2024]] [CVE-2024-55341](https://sec-fortress.github.io/posts/articles/posts/CVE-2024-55341.html) `CVE RESEARCH`
 - [[Dec 20 2024]] [CVE-2024-55342](https://sec-fortress.github.io/posts/articles/posts/CVE-2024-55342.html) `CVE RESEARCH`
 - [[Jun 06 2025]] [IDOR Checklist](https://sec-fortress.github.io/posts/articles/posts/Idor_Checlist.html) `Insecure Direct Object References Reconnaissance`
+- [[Sep 06 2025]] [GCP Hacking](https://sec-fortress.github.io/posts/articles/posts/Reveal_Hidden_Files_in_Google_Cloud_Storage.html) `Insecure bucket storage, fuzzing, weak passwords`
 
