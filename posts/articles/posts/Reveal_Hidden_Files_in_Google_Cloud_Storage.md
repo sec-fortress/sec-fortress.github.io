@@ -222,7 +222,7 @@ Compressed: 22072
 The retrieve file contains sensitive PII and a flag for the platform; **_Pwnedlabs_**
 
 
-![](https://github.com/user-attachments/assets/1254af32-0f4b-43b3-9529-a422ab8984da)
+![](https://i.imgur.com/DuBSc0r.png)
 
 
 ## **Remediation**
