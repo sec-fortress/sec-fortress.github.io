@@ -28,3 +28,4 @@ HackMyVM offers a collection of vulnerable virtual machines for learning and hac
 - [[May. 31 2024]] [075](https://sec-fortress.github.io/posts/HackMyVM/posts/075.html) `OSINT, Google-Map, Methodology`
 - [[Oct. 17 2024]] [PingMe](https://sec-fortress.github.io/posts/HackMyVM/posts/Pingme.html) `tcpdump, packet sniffing, ICMP`
 - [[Oct. 17 2024]] [Noob](https://sec-fortress.github.io/posts/HackMyVM/posts/Noob.html) `directory fuzzing, symbolic links`
+- [[June 19 2026]] [Helix](https://sec-fortress.github.io/posts/HackMyVM/posts/Helix.html) `SNMP, Pack2TheRoot`
