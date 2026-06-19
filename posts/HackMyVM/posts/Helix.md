@@ -1,3 +1,11 @@
+# **Helix**
+
+***
+<img width="787" height="797" alt="image" src="https://github.com/user-attachments/assets/cc318769-bc2e-46f9-8c2b-3f24da326216" />
+
+# **Difficulty = Easy**
+***
+
 we start by running a network scan to discover target host
 
 ```bash
@@ -59,7 +67,7 @@ Using `snmpwalk`, Got the username and password for the machine
 ❯ snmpwalk -c public -v1 -t 10 172.20.10.4
 ```
 
-![[Pasted image 20260619031805.png]]
+<img width="1280" height="501" alt="image" src="https://github.com/user-attachments/assets/b39fb289-0494-4b1f-b1b8-fe4609be1f5e" />
 
 Logged in as user me via SSH
 
@@ -103,7 +111,7 @@ Found Pack2TheRoot vulnerability
 
 > Tracked as [CVE-2026-41651](https://security-tracker.debian.org/tracker/CVE-2026-41651)is a high-severity (CVSS 8.8) local privilege escalation vulnerability in the PackageKit daemon, affecting major Linux distributions like Fedora, Ubuntu, Debian, and RHEL. Discovered by Deutsche Telekom's Red Team, the flaw allows any local unprivileged user to gain full root access in a matter of seconds.
 
-![[Pasted image 20260619033112.png]]
+<img width="1280" height="673" alt="image" src="https://github.com/user-attachments/assets/38dfa79c-e906-4d40-9e7d-6f7aa150b157" />
 
 Found an exploit for this called sick-pwn.c shout out 0xdeadbeefnetwork
 
