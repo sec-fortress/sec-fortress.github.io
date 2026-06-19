@@ -159,3 +159,7 @@ Firmware Version: VirtualBox
    Firmware Date: Fri 2006-12-01
     Firmware Age: 19y 6month 2w 3d 
 ```
+
+GG 👾
+
+<button onclick="window.location.href='https://sec-fortress.github.io';">Back To Home螥</button>
