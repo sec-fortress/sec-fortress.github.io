@@ -170,7 +170,7 @@ This is a growing collection of structured public notes, quick writeups, and rea
 
 - **MAIL: olakjosh@gmail.com**
 
-Hey yoo! If you're having any issues with my writeups or articles, feel free to send me a DM on Twitter `@Sec_fortress`. I'm always here to help! xD
+Hey yoo! If you're having any issues with my writeups or articles, feel free to send me a DM on Twitter `@Secfortress`. I'm always here to help! xD
 
 <a href="https://destroy.spritefusion.com/?from=badge" target="_blank">
   <img src="https://destroy.spritefusion.com/badge.svg" alt="Destroy this website" width="180" height="40" />
